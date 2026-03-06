@@ -12,7 +12,9 @@ currently, im working on :
 
 Tools that im workin'
 Networking & Security     : Cisco, MikroTik, Sophos, UniFi
+
 System & Virtualization   : Proxmox
+
 Programming & Automation  : Python, C++
 
 📫 reach me via :
