@@ -10,7 +10,8 @@ currently, im working on :
 - Preparing my final thesis focusing on data centers, networking, and security.
 - Expanding my professional certifications (currently pursuing CCNA; MTCNA certified).
 
-Tools that im workin'
+Tools that im workin
+
 Networking & Security     : Cisco, MikroTik, Sophos, UniFi
 
 System & Virtualization   : Proxmox
