@@ -5,7 +5,7 @@ Hello im rafie, I am an IT professional with a strong foundation in network oper
 
 currently, im working on :
 
-- Actively working in network operations (currently 6 months as a NOC at PT Nale, with previous IT Infrastructure experience at PT CHL).
+- Actively working in network operations an Staff IT Infrastructure.
 - Developing my personal portfolio website to showcase my case studies and technical projects.
 - Preparing my final thesis focusing on data centers, networking, and security.
 - Expanding my professional certifications (currently pursuing CCNA; MTCNA certified).
@@ -15,7 +15,7 @@ Networking & Security     : Cisco, MikroTik, Sophos, UniFi
 
 System & Virtualization   : Proxmox
 
-Programming & Automation  : Python, C++
+Programming & Automation  : Python, C++, SQL
 
 📫 reach me via :
 
